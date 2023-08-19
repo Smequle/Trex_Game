@@ -1,11 +1,11 @@
-# HIGH SCORE: 6620 by Smequle (aka me)
+# HIGH SCORE: 6777 by Superman
 
 # TOP 10:
-# 1. 6620 (Smequle)
-# 2. 1014 (Smequle
-# 3. 566 (Smequle)
-# 4. 560 (Smequle)
-# 5. NOT SET
+# 1. 6777 (Superman)
+# 2. 6620 (Smequle)
+# 3. 1014 (Smequle
+# 4. 566 (Smequle)
+# 5. 560 (Smequle)
 # 6. NOT SET
 # 7. NOT SET
 # 8. NOT SET
