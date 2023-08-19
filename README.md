@@ -2,12 +2,12 @@
 
 # TOP 10:
 # 1. 6777 (Superman)
-# 2. 6620 (Smequle)
-# 3. 3045 (Smequle)
-# 4. 2559 (Smequle)
-# 5. 1644 (Smequle)
-# 6. 1412 (Smequle)
-# 7. 1302 (Superman)
-# 8. 1014 (Smequle
-# 9. 566 (Smequle)
-# 10. 560 (Smequle)
+# 2. 6665 (Superman)
+# 3. 6620 (Smequle)
+# 4. 6337 (Smequle)
+# 5. 3045 (Smequle)
+# 6. 2559 (Smequle)
+# 7. 1644 (Smequle)
+# 8. 1412 (Smequle)
+# 9. 1302 (Superman)
+# 10. 1014 (Smequle
