@@ -2,9 +2,9 @@
 
 # TOP 10:
 # 1. 6620 (Smequle)
-# 2. NOT SET
-# 3. NOT SET
-# 4. NOT SET
+# 2. 1014 (Smequle
+# 3. 566 (Smequle)
+# 4. 560 (Smequle)
 # 5. NOT SET
 # 6. NOT SET
 # 7. NOT SET
