@@ -1,13 +1,13 @@
-# HIGH SCORE: 10013 by Smequle
+# HIGH SCORE: 51170 by Smaug Fury
 
 # TOP 10:
-# 1. 10013 (Smequle)
-# 2. 6777 (Superman)
-# 3. 6665 (Superman)
-# 4. 6620 (Smequle)
-# 5. 6546 (Superman)
-# 6. 6337 (Smequle)
-# 7. 3084 (Smequle)
-# 8. 3045 (Smequle)
-# 9. 2559 (Smequle)
-# 10. 2300 (Superman)
+# 1. 51170 (Smaug Fury)
+# 2. 10013 (Smequle)
+# 3. 6777 (Superman)
+# 4. 6665 (Superman)
+# 5. 6620 (Smequle)
+# 6. 6546 (Superman)
+# 7. 6337 (Smequle)
+# 8. 3084 (Smequle)
+# 9. 3045 (Smequle)
+# 10. 2559 (Smequle)
